@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-jua: Jua;
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+  --font-size-51xl: 70px;
+  --font-size-21xl: 40px;
+  --font-size-71xl: 90px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-gray: rgba(0, 0, 0, 0.5);
+
+  /* Paddings */
+  --padding-4xs: 9px;
+  --padding-39xl: 58px;
+  --padding-31xl: 50px;
+
+  /* border radiuses */
+  --br-21xl: 40px;
+}

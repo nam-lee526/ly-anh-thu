@@ -1,0 +1,34 @@
+.i-love-you,
+.yessssyess {
+  position: absolute;
+  top: 152px;
+  left: 41px;
+}
+.i-love-you {
+  top: 305px;
+  left: 20px;
+  font-size: var(--font-size-31xl);
+}
+.div {
+  position: absolute;
+  top: 462px;
+  left: 133.05px;
+  font-size: 60px;
+  color: #bd0000;
+  display: inline-block;
+  width: 191px;
+  height: 79px;
+  transform: rotate(21.57deg);
+  transform-origin: 0 0;
+}
+.iphone-8-plus-8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-jua);
+}

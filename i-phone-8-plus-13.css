@@ -1,0 +1,38 @@
+.yes3 {
+  position: relative;
+}
+.component-13 {
+  position: absolute;
+  top: 300px;
+  left: 22px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-31xl);
+  align-items: center;
+  justify-content: center;
+  color: var(--color-gray);
+}
+.do-you-love3 {
+  position: absolute;
+  top: 161px;
+  left: 62px;
+}
+.please-reply-back3 {
+  position: absolute;
+  top: 457px;
+  left: 42px;
+}
+.iphone-8-plus-13 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-jua);
+}

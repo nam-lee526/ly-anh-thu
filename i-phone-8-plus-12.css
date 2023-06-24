@@ -1,0 +1,52 @@
+.yes2 {
+  position: relative;
+}
+.component-12 {
+  position: absolute;
+  top: 300px;
+  left: 22px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-31xl);
+  align-items: center;
+  justify-content: center;
+}
+.do-you-love2,
+.please-reply-back2 {
+  position: absolute;
+  top: 161px;
+  left: 62px;
+  color: var(--color-black);
+}
+.please-reply-back2 {
+  top: 457px;
+  left: 42px;
+}
+.no-frame {
+  position: absolute;
+  top: 507px;
+  left: 256px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-39xl);
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.iphone-8-plus-12 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 736px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  font-family: var(--font-jua);
+}
